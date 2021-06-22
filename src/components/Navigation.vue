@@ -97,8 +97,8 @@ export default {
     items: [
       ["mdi-home-outline", "Home", "#hero"],
       ["mdi-information-outline", "About", "#features"],
-      ["mdi-download-box-outline", "Resume", "#download"],
-      ["mdi-currency-usd", "Portfolio", "#pricing"],
+      ["mdi-download-box-outline", "Portfolio", "#download"],
+      ["mdi-currency-usd", "Packages", "#pricing"],
       ["mdi-email-outline", "Contact", "#contact"],
     ],
   }),
